@@ -5,3 +5,4 @@ Separação de códigos por equipe:
 1. Designados para a Fila de Sucessão, usem herdeiros.c
 2. Designados para a Pilha de Segredos, usem diarios.c
 3. Designados para a Árvore Genealógica, usem arvore.c
+4. Designados para o Mapa da Mansão, usem mapa.jpg
